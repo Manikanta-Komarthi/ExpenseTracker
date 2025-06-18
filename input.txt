@@ -1,0 +1,5 @@
+income,salary,30000,2025-06-01
+expense,food,1200,2025-06-02
+expense,rent,8000,2025-06-03
+income,business,15000,2025-06-04
+expense,travel,2200,2025-06-05
